@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="">
+      <input type="checkbox" value="1" class="check" />
+      <label for="check">Stu 1</label>
+      <input type="checkbox" value="2" class="check" />
+      <label for="check">Stu 2</label>
+    </form>
+
+    <div class="data"></div>
+    <script>
+          // let arr=[12,50,20,6]
+          // arr.sort((a,b)=>a-b);
+          // console.log(arr);
+          // console.log(arr[arr.length-1])
+
+        //   let arr = prompt("Enter String");
+        //   let sepratedArr = [10,5,2];
+        //   let sepratedArr = arr.split(" ");
+
+          // sepratedArr.sort((a,b)=>a-b);
+        //   console.log(sepratedArr)
+
+        //   for (let i = 0; i < sepratedArr.length; i++) {
+        //     for (let j = 0; j < sepratedArr.length-i-1; j++) {
+        //       if (parseInt(sepratedArr[j]) > parseInt(sepratedArr[j + 1]) ){
+        //         // [sepratedArr[j], sepratedArr[j + 1]] = [sepratedArr[j + 1],sepratedArr[j]];
+        //         let temp = sepratedArr[j]
+        //         sepratedArr[j]=sepratedArr[j+1]
+        //         sepratedArr[j+1]=temp
+        //       }
+        //     }
+        //   }
+
+        // let find = prompt("Enter Word to find")
+        // let index =sepratedArr.indexOf(find)
+        //   console.log(index)
+
+        const sub=((a,b=10)=>a-b)
+        console.log(    sub(10)
+        )
+        console.log(    sub(10,5)
+        )
+
+        let arr=[1,2,3]
+        let arr2=[4,5,6]
+        console.log([arr[0],...arr2])
+        document.addEventListener("mousedown",(e)=>{
+            if(e.button===0)
+        {
+            console.log("Left mouse button clicked")
+
+        }
+        else if( e.button===2)
+        {
+            console.log("Right mouse button clicked")
+        }
+        else{
+            console.log("Middle mouse button clicked")
+        }
+
+        })
+
+        const stu=[
+          {
+            rollno:1,
+            name:"Rahul",
+            branch:"CE"
+          },
+          {
+            rollno:2,
+            name:"Rohen",
+            branch:"IT"
+
+          }
+        ]
+        document.querySelectorAll(".check").forEach((checkbox)=>{
+          checkbox.addEventListener("change",(e)=>{
+            if(checkbox.checked){
+              let rollno=parseInt(e.target.value)
+            let students=stu.find((student)=>student.rollno===rollno)
+            document.querySelector(".data").innerHTML+=`  <ol>
+        <li>${students.rollno}</li>
+        <li>${students.name}</li>
+        <li>${students.branch}</li>
+      </ol>`
+            }
+            else
+            {
+              document.querySelector(".data").innerHTML=""
+            }
+         
+          });
+
+        })
+    </script>
+  </body>
+</html>

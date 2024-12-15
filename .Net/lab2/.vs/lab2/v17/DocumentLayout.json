@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Du sem 4\\.Net\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|d:\\du sem 4\\.net\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|d:\\du sem 4\\.net\\lab2\\lab2\\gross.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|solutionrelative:lab2\\gross.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|d:\\du sem 4\\.net\\lab2\\lab2\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|solutionrelative:lab2\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|d:\\du sem 4\\.net\\lab2\\lab2\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|solutionrelative:lab2\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|d:\\du sem 4\\.net\\lab2\\lab2\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|solutionrelative:lab2\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|d:\\du sem 4\\.net\\lab2\\lab2\\account_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|solutionrelative:lab2\\account_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|d:\\du sem 4\\.net\\lab2\\lab2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|solutionrelative:lab2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|d:\\du sem 4\\.net\\lab2\\lab2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|solutionrelative:lab2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|d:\\du sem 4\\.net\\lab2\\lab2\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|solutionrelative:lab2\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|d:\\du sem 4\\.net\\lab2\\lab2\\bank_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|solutionrelative:lab2\\bank_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|d:\\du sem 4\\.net\\lab2\\lab2\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D76B7A-808C-4545-BEE6-AFDEEE036FD3}|lab2\\lab2.csproj|solutionrelative:lab2\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gross.cs",
+              "DocumentMoniker": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Gross.cs",
+              "RelativeDocumentMoniker": "lab2\\Gross.cs",
+              "ToolTip": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Gross.cs",
+              "RelativeToolTip": "lab2\\Gross.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:46:08.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Furniture.cs",
+              "DocumentMoniker": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Furniture.cs",
+              "RelativeDocumentMoniker": "lab2\\Furniture.cs",
+              "ToolTip": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Furniture.cs",
+              "RelativeToolTip": "lab2\\Furniture.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:43:38.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Distance.cs",
+              "DocumentMoniker": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Distance.cs",
+              "RelativeDocumentMoniker": "lab2\\Distance.cs",
+              "ToolTip": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Distance.cs",
+              "RelativeToolTip": "lab2\\Distance.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:42:30.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2\\Program.cs",
+              "ToolTip": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Program.cs",
+              "RelativeToolTip": "lab2\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:52:53.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Salary.cs",
+              "RelativeDocumentMoniker": "lab2\\Salary.cs",
+              "ToolTip": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Salary.cs",
+              "RelativeToolTip": "lab2\\Salary.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:41:37.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account_Detail.cs",
+              "DocumentMoniker": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Account_Detail.cs",
+              "RelativeDocumentMoniker": "lab2\\Account_Detail.cs",
+              "ToolTip": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Account_Detail.cs",
+              "RelativeToolTip": "lab2\\Account_Detail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:40:59.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Rectangle.cs",
+              "RelativeDocumentMoniker": "lab2\\Rectangle.cs",
+              "ToolTip": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Rectangle.cs",
+              "RelativeToolTip": "lab2\\Rectangle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:37:34.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Student.cs",
+              "RelativeDocumentMoniker": "lab2\\Student.cs",
+              "ToolTip": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Student.cs",
+              "RelativeToolTip": "lab2\\Student.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:29:19.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bank_Account.cs",
+              "DocumentMoniker": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Bank_Account.cs",
+              "RelativeDocumentMoniker": "lab2\\Bank_Account.cs",
+              "ToolTip": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Bank_Account.cs",
+              "RelativeToolTip": "lab2\\Bank_Account.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:24:05.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Staff.cs",
+              "RelativeDocumentMoniker": "lab2\\Staff.cs",
+              "ToolTip": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Staff.cs",
+              "RelativeToolTip": "lab2\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:09:48.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Candidate.cs",
+              "RelativeDocumentMoniker": "lab2\\Candidate.cs",
+              "ToolTip": "D:\\Du sem 4\\.Net\\lab2\\lab2\\Candidate.cs",
+              "RelativeToolTip": "lab2\\Candidate.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:56:50.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
